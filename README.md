@@ -9,8 +9,23 @@ A schematic view of the projects circuit
 ### Images of working project
 ![project](images/working_project.png)
 
+RGB LED changing color depending on the status
+
+![red](images/red.jpeg)
+
+![yellow](images/yellow.jpeg)
+
+![green](images/green.jpeg)
+
+Project circuit
+![circuit project](images/whole_circuit.jpeg)
+
 ### Video
 
+Video of the prototype updating values and switching colors accordingly
+
+<a href="https://drive.google.com/file/d/1MF--TyQnmTRQYTMNfvmJqYR_qIY0H-z3/view?usp=sharing"
+target="_blank"></a>
 
 # DWW
 ### Moodboard
