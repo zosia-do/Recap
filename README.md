@@ -4,7 +4,7 @@ The final assigment for the Designing with Web and Connecting with IoT courses.
 
 # CWIOT
 ### Schematic view
-#### A schematic view of the projects circuit
+A schematic view of the projects circuit
 
 ### Images of working project
 
