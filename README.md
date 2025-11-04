@@ -24,8 +24,7 @@ Project circuit
 
 Video of the prototype updating values and switching colors accordingly
 
-<a href="https://drive.google.com/file/d/1MF--TyQnmTRQYTMNfvmJqYR_qIY0H-z3/view?usp=sharing"
-target="_blank"></a>
+[See the video](https://drive.google.com/file/d/1MF--TyQnmTRQYTMNfvmJqYR_qIY0H-z3/view?usp=sharing)
 
 # DWW
 ### Moodboard
