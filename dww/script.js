@@ -1,5 +1,5 @@
  document.addEventListener("DOMContentLoaded", function(){
-    const IO = new AdafruitIO("zosia_do", "aio_SOGK39CTDWR73ClqWGeVYJcQuC8a");
+    const IO = new AdafruitIO(username, key);
     
     
     const temperatureFeed = "temperature";
@@ -34,7 +34,7 @@
         });
     }
     updateTemperature();
-    setInterval(updateTemperature, 10000);
+    setInterval(updateTemperature, 8000);
 
 
     function updateHumidity(){
@@ -56,7 +56,7 @@
         })
     }
     updateHumidity();
-    setInterval(updateHumidity, 10000);
+    setInterval(updateHumidity, 8000);
 
 
     function updateRing(){
@@ -75,7 +75,7 @@
         }
     }
     updateRing();
-    setInterval(updateRing, 10000);
+    setInterval(updateRing, 8000);
 
 
 });

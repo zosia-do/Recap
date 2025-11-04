@@ -107,7 +107,7 @@ void loop() {
     analogWrite(BLUE_PIN, 0);
     Serial.println("Status: Bad (RED)");
   }
-  delay(10000);
+  delay(8000);
 
 }
 
